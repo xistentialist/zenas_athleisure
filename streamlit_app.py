@@ -1,2 +1,2 @@
 import streamlit
-streamlit.title("""Zena's Ahtleisure catalog""")
+streamlit.title("""Zena's Athleisure Catalog""")
